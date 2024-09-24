@@ -1,0 +1,21 @@
+
+
+p {
+     background-color: lightpink;
+
+}
+
+#el2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#el4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
